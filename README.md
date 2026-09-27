@@ -1,11 +1,13 @@
 # Virtual Health Organizer
 
-Virtual Health Organizer is a healthcare management system that helps users organize health records, appointments, and medical information digitally.
+Developed a Virtual Health Organizer application that provides users with a structured weekly health management plan, including exercise recommendations and wellness activities. The system helps users maintain a healthy lifestyle through organized fitness schedules and health monitoring features.
 
 ## Features
 - Health Record Management
 - User-Friendly Interface
-- Digital Healthcare Organization
+- Daily Fitness Schedule Tracking
+- diet management
+- health and wellness monitoring
 
 ## Technologies Used
 - Python
@@ -14,4 +16,4 @@ Virtual Health Organizer is a healthcare management system that helps users orga
 - CSS
 
 ## Objective
-To simplify the management of personal healthcare information through a digital platform.
+To support healthy living through weekly exercise planning and wellness management
