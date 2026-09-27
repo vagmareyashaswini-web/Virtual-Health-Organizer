@@ -4,7 +4,6 @@ Virtual Health Organizer is a healthcare management system that helps users orga
 
 ## Features
 - Health Record Management
-- Appointment Tracking
 - User-Friendly Interface
 - Digital Healthcare Organization
 
